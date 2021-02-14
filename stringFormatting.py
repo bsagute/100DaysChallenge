@@ -1,0 +1,7 @@
+st=input("Enter String:= ")
+st=st.strip()
+print("is Alphanumeric" , st.isalnum())
+print("is all digits ", st.isdigit())
+print("is All Alphabestic", st.isalpha())
+print("is All upper case", st.isupper())
+print("is All lower case ", st.islower())
